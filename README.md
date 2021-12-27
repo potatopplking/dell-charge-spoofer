@@ -22,6 +22,6 @@ make flash
 
 ### Connect
 
-See schematic. Connect GND output voltage of your source to voltage input of spoofer. Connect center pin of the laptop connector to DATA pin of spoofer. GND should go on the outer shield of connector, voltage should be connected to inner shield of connector.
+See schematic. Connect GND and output voltage of your source to voltage input of spoofer. Connect center pin of the laptop connector to DATA pin of spoofer. GND should go on the outer shield of connector, voltage should be connected to inner shield of connector.
 
 *Important: spoofer doesn't regulate or monitor voltage of the power source - it's up to you to check that voltage matches original charger!*
